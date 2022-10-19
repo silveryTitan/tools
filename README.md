@@ -9,3 +9,4 @@
 ## https://github.com/goweii/Layer  浮层管理
 ## https://mp.weixin.qq.com/s/hRSLXfakXPhGdKaCMQFHfw  泛型机制理解
 ## https://github.com/JavaNoober/BackgroundLibrary  减少shape文件
+## https://github.com/HarlonWang/AVLoadingIndicatorView  进度加载动画
