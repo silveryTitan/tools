@@ -8,3 +8,4 @@
 ## https://github.com/wanghuaixin1201/VirtualXposed-HookLogin 一款免Root虚拟框架App&检测应用隐私合规App
 ## https://github.com/goweii/Layer  浮层管理
 ## https://mp.weixin.qq.com/s/hRSLXfakXPhGdKaCMQFHfw  泛型机制理解
+## https://github.com/JavaNoober/BackgroundLibrary  减少shape文件
