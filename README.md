@@ -10,3 +10,4 @@
 ## https://mp.weixin.qq.com/s/hRSLXfakXPhGdKaCMQFHfw  泛型机制理解
 ## https://github.com/JavaNoober/BackgroundLibrary  减少shape文件
 ## https://github.com/HarlonWang/AVLoadingIndicatorView  进度加载动画
+## https://www.javazhiyin.com/101986.html   线程池原理（面试用）
